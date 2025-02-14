@@ -32,7 +32,7 @@ const animationTimeline = () => {
     visibility: "visible",
   })
     
-    .from(".three", 0.7, {
+    .from(".three", 0.1, {
       opacity: 0,
       y: 10,
       // scale: 0.7
